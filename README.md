@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and music
 - 🌱 I’m currently learning python
 - 🕹️ I want to make my own music program
-- 📫 How to reach me @ssudeakkass@gmail.com
+- 📫 How to reach me ssudeakkass@gmail.com
 - ⚡ Fun fact: let me think about it
 
 <!---
