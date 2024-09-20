@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hypatians
+- 👋 Hi, I’m [@hypatians](https://github.com/hypatians).
 - 👀 I’m interested in coding and music
 - 🌱 I’m currently learning python
 - 🕹️ I want to make my own music program
